@@ -15,6 +15,6 @@ Use ``` pip3 install -r ../../requirements.txt ``` to install the dependencies f
 
 - Demo: Contains Jupyter Notebook file that performs inference on sample images.
 - Models: Contains trained pytorch models of the modules of the MNN-Tree.
-- Softmax Output: Contains the saved softmax output values; required by Averaged Softmax Likelihood.
+- Softmax Output: Contains the saved softmax output values; required by Mean Softmax Likelihood (MSL).
 - Test: Contains scripts to find the accuracy of the MNN-Tree.
 - Train: Contains scripts to train the MNN-Tree's modules.
