@@ -1,1 +1,1 @@
-# MNN-Hierarchical-Organization
+Hierarchical Modular Deep Convolution Neural Network (HMDCNN) Tree
