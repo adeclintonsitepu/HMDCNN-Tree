@@ -2,7 +2,6 @@
 This repository contains the code (in PyTorch) for "Optimized Visual Recognition through a Deep Convolutional Neural Network with Hierarchical Modular Organization" article by Ade Clinton Sitepu and Chuan-Ming Liu
 
 ## Introduction
-<hr/>
 Artificial Intelligence (AI) tasks such as natural language processing, visual recognition, and autonomous decision-making require substantial computational power beside its superior performance. The need for AI, especially Deep Convolution Neural Networks (DCNNs), in image processing is substantial and has rapidly grown in today's era. Convolutional Neural Networks (CNNs) have demonstrated remarkable capabilities in visual recognition and understanding, making them indispensable in a wide range of applications. DCNNs techniques have brought about an advance impact in the field of artificial intelligence (AI) and show remarkable success in visual recognition (computer vision) domains. In computer vision, DCNNs trained on large-scale image datasets have achieved high accuracy. However, the exceptional performance of DCNNs comes with the considerable cost of computational complexity.
 
 The article provides the following contributions:
