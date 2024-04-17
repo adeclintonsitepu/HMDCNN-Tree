@@ -1,6 +1,6 @@
-# MNN-Tree Hierarchical Organization
+# HMDCNN-Tree
 
-This repository contains the code for "Optimized Visual Recognition Based on The Modular Neural Network with Hierarchical Organization" article by Ade Clinton Sitepu and Chuan-Ming Liu.
+This repository contains the code for "Optimized Visual Recognition through a Deep Convolutional Neural Network with Hierarchical Modular Organization" article by Ade Clinton Sitepu and Chuan-Ming Liu.
 
 ## Usage
 ```python <filename>.py```
