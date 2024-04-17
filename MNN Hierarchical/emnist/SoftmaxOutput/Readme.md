@@ -3,4 +3,4 @@
 This repository contains the code for "Optimized Visual Recognition through a Deep Convolutional Neural Network with Hierarchical Modular Organization" paper by Ade Clinton Sitepu and Chuan-Ming Liu.
 
 ## Usage
-```python grouper.py``` to find super-groups of the MNN-Tree.
+```python grouper.py``` to find super-groups of the HMDCNN-Tree.
