@@ -1,6 +1,5 @@
-# A Deep Convolutional Neural Network with Hierarchical Modular Organization for Optimized Visual Recognition
-
-This repository contains the code for "A Deep Convolutional Neural Network with Hierarchical Modular Organization for Optimized Visual Recognition" article by Ade Clinton Sitepu and Chuan-Ming Liu.
+# Hierarchical Deep Convolution Neural Network (HMDCNN) Tree
+This repository contains the code for "Optimized Visual Recognition through a Deep Convolutional Neural Network with Hierarchical Modular Organization" article by Ade Clinton Sitepu and Chuan-Ming Liu.
 
 ## Usage
 
@@ -14,7 +13,7 @@ Use ``` pip3 install -r ../../requirements.txt ``` to install the dependencies f
 ## Directory Structure
 
 - Demo: Contains Jupyter Notebook file that performs inference on sample images.
-- Models: Contains trained pytorch models of the modules of the MNN-Tree.
+- Models: Contains trained pytorch models of the modules of the HMDCNN-Tree.
 - Softmax Output: Contains the saved softmax output values; required by Averaged Softmax Likelihood.
-- Test: Contains scripts to find the accuracy of the MNN-Tree.
-- Train: Contains scripts to train the MNN-Tree's modules.
+- Test: Contains scripts to find the accuracy of the HMDCNN-Tree.
+- Train: Contains scripts to train the HMDCNN-Tree's modules.
