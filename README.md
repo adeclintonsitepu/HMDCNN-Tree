@@ -1,1 +1,1 @@
-# Hierarchical Modular Deep Convolution Neural Network (HMDCNN) Tree
+# Optimized Visual Recognition through a Deep Convolutional Neural Network with Hierarchical Modular Organization
